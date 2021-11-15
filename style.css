@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+ul {
+  position: relative;
+  float: right;
+}
+
+ul li {
+  background: lightgray;
+  display: inline-flex;
+  padding: 15px;
+  margin: 10px 20px 0 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  padding: 80px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  width: 50%;
+  text-align: center;
+  margin: 40px auto;
+  padding: 20px;
+}
