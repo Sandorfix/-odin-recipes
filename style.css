@@ -12,7 +12,7 @@ body {
 
 ul {
   position: relative;
-  float: right;
+  float: left;
 }
 
 ul li {
